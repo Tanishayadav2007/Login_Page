@@ -56,7 +56,9 @@ The motivation behind this project is to learn and demonstrate:
 
 ### Login Page
 <img width="572" height="440" alt="Screenshot 2026-03-31 151526" src="https://github.com/user-attachments/assets/1f0d456f-7e0d-48a6-b76e-03ff2328cfc7" />
+
 ### Successful Login
 <img width="558" height="424" alt="Screenshot 2026-03-31 151709" src="https://github.com/user-attachments/assets/71f70d78-e826-4871-9746-a0c29d7b9e89" />
+
 ### Invalid Credentials
 <img width="554" height="425" alt="Screenshot 2026-03-31 151643" src="https://github.com/user-attachments/assets/8cfdbb40-83dd-4619-96db-332670753656" />
